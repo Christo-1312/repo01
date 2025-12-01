@@ -1,1 +1,1 @@
-This is my word.txt file
+This is my word file
